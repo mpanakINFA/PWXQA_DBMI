@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0u48qArIvWCcXRPjW6ydsy",
+    "name" : "mp_O_AS_ALL_ORACLE_TYPES_199",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6615"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

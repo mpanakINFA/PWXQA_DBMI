@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "cHs7fbeX8Alhe4xrYWAQEL",
+    "name" : "A.2 -- Oracle to Azure SQLDW",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

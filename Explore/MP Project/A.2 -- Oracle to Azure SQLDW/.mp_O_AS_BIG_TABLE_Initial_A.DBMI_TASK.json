@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1mve0gGpxomkPSFe2PGBgN",
+    "name" : "mp_O_AS_BIG_TABLE_Initial_A",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6415"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3csK4RTDBoKgD9QZYM15iG",
+    "name" : "mp_O_AS_SRC_ALLNUM_8K",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "203"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

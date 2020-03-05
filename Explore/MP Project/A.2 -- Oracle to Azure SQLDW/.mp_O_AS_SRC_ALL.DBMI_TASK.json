@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cwdUyzDlPaybpKReimDrAi",
+    "name" : "mp_O_AS_SRC_ALL",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "19"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Can't deploy as of 10/14/2019 due to DBMI-1395 (ALLNCHAR).",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

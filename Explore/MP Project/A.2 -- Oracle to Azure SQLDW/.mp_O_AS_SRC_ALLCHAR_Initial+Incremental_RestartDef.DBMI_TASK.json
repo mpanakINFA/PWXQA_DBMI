@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "dq7rI5id4wKjknV0kRWNu0",
+    "name" : "mp_O_AS_SRC_ALLCHAR_Initial+Incremental_RestartDef",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "853"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

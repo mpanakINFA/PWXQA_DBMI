@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "dJ5c5CD7nyrdooTMqAUDKP",
+    "name" : "mp_O_AS_WildcardDeploy_A",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1059"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

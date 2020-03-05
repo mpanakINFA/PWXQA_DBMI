@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5TeR0dQ2z6ofUfBT7rfBEc",
+    "name" : "mp_O_AS_BIG_TABLE_Initial_C",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6695"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Selected tables all have 32000 rows and Initial Load should fail for issue tracked in DBMI-1798",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}
