@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "a4OQpSn8wLJcuJZtuPRPsE",
+    "name" : "mp_O_K_SRC_ALLRAW_Incremental",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6581"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

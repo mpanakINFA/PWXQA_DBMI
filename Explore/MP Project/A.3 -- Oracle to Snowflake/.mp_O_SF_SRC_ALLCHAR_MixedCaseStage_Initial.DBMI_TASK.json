@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5e7E6EqQ1aZgHPPL9nOJCy",
+    "name" : "mp_O_SF_SRC_ALLCHAR_MixedCaseStage_Initial",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "923"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2VRCQ04b93xlLFeLqjOM83",
+    "name" : "mp_O_SF_SRC_ALLNUM_8K_Incremental",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "211"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9XTGhuX5Xeghk6e9Z6Z5Ek",
+    "name" : "mp_O_K_ALL_ORACLE_TYPES_RestartDefault_A",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3107"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

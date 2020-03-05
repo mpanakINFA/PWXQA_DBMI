@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cEGmpHmG1WtfDHVMPZBsqP",
+    "name" : "mp_O_SF_Many_Tables_Initial_D",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1053"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

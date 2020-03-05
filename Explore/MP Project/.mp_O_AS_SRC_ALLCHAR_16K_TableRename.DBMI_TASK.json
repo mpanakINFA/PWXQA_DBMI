@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "dTfXs6zUuA5hpkLqSjHuwv",
+    "name" : "mp_O_AS_SRC_ALLCHAR_16K_TableRename",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5441"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

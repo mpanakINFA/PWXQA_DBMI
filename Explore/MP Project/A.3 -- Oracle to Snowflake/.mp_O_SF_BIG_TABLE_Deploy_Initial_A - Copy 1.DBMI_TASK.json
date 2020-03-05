@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8tE0G2kvHKqdjNnd9ch98J",
+    "name" : "mp_O_SF_BIG_TABLE_Deploy_Initial_A - Copy 1",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6503"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

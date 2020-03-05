@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "hl1jzJPeOKHcvaA5eHEPkB",
+    "name" : "mp_O_K_SRC_ALLCHAR_orclasm_RestartDefault_K",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6395"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

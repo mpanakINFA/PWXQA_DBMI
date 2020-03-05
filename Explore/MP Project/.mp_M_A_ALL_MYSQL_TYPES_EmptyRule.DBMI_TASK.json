@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4z026JRGNWkkJWdwsQE4S1",
+    "name" : "mp_M_A_ALL_MYSQL_TYPES_EmptyRule",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6403"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

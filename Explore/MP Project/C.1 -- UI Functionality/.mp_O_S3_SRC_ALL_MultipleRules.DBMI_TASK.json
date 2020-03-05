@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3UswK5c03COkiNAvtwr9eX",
+    "name" : "mp_O_S3_SRC_ALL_MultipleRules",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "807"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

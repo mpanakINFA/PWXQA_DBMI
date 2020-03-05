@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8lcLwNmI76kiiUAZcX9cyy",
+    "name" : "mp_O_K_ALL_ORACLE_TYPES_NameChange",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5691"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

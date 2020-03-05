@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "8IZy1KBU1ukedNpocRxdEd",
+    "name" : "A.5 -- Oracle to Flat File",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

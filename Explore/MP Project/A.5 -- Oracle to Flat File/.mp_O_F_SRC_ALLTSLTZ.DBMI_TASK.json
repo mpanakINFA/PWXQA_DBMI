@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5a0Z9NVz19AhtYRQ0G4SWF",
+    "name" : "mp_O_F_SRC_ALLTSLTZ",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6639"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "jvqaq8mpjEidBA63d4x0EK",
+    "name" : "A.4 -- Oracle to Kafka",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

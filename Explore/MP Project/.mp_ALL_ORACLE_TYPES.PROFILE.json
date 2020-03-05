@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "2XIqR9S8lufbVDiC5CG3av",
+    "name" : "mp_ALL_ORACLE_TYPES",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "46d71fc3-3ea6-4bf9-b970-274846422f0b"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "json",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "hnAaSksst6QlsQwhaqEg8a",
+    "name" : "mp_Oracle121_mlx121q1",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000M"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long con",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

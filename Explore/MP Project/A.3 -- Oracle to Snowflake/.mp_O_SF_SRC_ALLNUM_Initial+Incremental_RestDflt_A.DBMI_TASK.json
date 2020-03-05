@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2j5z2ABOdP7dDlLup8nEAe",
+    "name" : "mp_O_SF_SRC_ALLNUM_Initial+Incremental_RestDflt_A",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6697"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

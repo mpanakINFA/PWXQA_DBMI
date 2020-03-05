@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "feW4NN9hisOgFI2wmTuv6B",
+    "name" : "mp_O_K_SRC_ALL_RestartDate_D",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1479"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

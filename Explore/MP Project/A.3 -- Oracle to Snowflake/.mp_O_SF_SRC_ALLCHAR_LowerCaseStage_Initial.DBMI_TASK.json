@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8J5YxnLPk8fibN4JafNSOk",
+    "name" : "mp_O_SF_SRC_ALLCHAR_LowerCaseStage_Initial",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "921"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

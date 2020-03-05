@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1HXMI3CvjhXeUszSiNOCge",
+    "name" : "mp_O_F_ALL_ORACLE_TYPES_RestartDefault_InvalidTgt",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5543"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

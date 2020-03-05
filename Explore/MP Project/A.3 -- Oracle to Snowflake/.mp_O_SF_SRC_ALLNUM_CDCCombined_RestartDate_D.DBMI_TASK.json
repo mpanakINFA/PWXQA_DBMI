@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9c9cxh1ndOKjT4SlSXfOmp",
+    "name" : "mp_O_SF_SRC_ALLNUM_CDCCombined_RestartDate_D",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6887"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

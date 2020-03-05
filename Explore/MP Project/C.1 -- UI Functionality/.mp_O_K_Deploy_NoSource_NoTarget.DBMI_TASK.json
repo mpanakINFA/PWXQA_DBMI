@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4bF6O6z5z0klriyZjIJWkw",
+    "name" : "mp_O_K_Deploy_NoSource_NoTarget",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6583"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

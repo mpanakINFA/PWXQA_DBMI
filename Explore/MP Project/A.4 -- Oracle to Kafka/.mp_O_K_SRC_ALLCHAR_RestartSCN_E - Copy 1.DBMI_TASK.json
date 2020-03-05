@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "bKE3dJpkSoZbCUu84bclA4",
+    "name" : "mp_O_K_SRC_ALLCHAR_RestartSCN_E - Copy 1",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3087"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

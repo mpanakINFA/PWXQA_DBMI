@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cFsvwSdjlgPluES4zGM7AV",
+    "name" : "mp_O_SF_SRC_ALLNUM_8K_Initial+Incremental",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "213"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

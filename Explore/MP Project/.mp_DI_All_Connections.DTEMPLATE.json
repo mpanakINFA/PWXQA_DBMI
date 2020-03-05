@@ -1,0 +1,327 @@
+{
+  "objectInfo" : {
+    "id" : "6MHkK1dT0TAdV8kXIUDdoW",
+    "name" : "mp_DI_All_Connections",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J21700000000000I"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "eFC7DH7JAk6cq8NLz1PB2r",
+    "name" : "mp_MySQL_USW1PF18WPQG",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000001S"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "1E2tIT01BNbgKcbCa4H7CU",
+    "name" : "mp_Kafka_jotunheim_invalid",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B000000000031"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "4piSgftgZpNjnHgHAR3P0A",
+    "name" : "mp_ADLS",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000001Q"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7t2cCQAyX2mhfrL4YGBgQ2",
+    "name" : "mp_Oracle121_mlx121q1_invalid",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000N"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "dmHvsF3HGAUjTDPXRARaOb",
+    "name" : "mp_FF_mhredhat5",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000002X"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "hnAaSksst6QlsQwhaqEg8a",
+    "name" : "mp_Oracle121_mlx121q1",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000M"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long con",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5gNc2Gq4lYpbTbQRe0wKYb",
+    "name" : "mp_CDC_V2_LongDescription",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000001J"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.  This is a really long connector description.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "64ACYZh3SAYhIpq5MfMvgV",
+    "name" : "mp_Snowflake_DBMI_WH1",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000V"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "9jzLVzmcw7OktGKwnjlaOs",
+    "name" : "mp_FF_USW1PF18WPQG",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000003G"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Reassigned SA to allow delete of SA USW1PF18WPQG for to test DBMI-1261",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "9dX4XEp8Swycz6XZRP5CI4",
+    "name" : "mp_Kafka_jotunheim",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000L"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "0AmouSfjU9MiEN68rUPE8c",
+    "name" : "mp_FF_mhv19pwxqa01",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "1HaWkQ3VYXJhMqh4VqzpAu",
+    "name" : "mp_MSSQL_USW1PF18WPQG",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000001R"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "cwwkqVZ3r0yeN2Nug5umUY",
+    "name" : "mp_FF_mhredhat5_invalid",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B000000000032"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "9buGQ0yW0OKiATv1bd0NKH",
+    "name" : "mp_Snowflake_DBMI_WH1_BadConnection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000002Y"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7HDwHNl0PmijjP9fkp49WZ",
+    "name" : "mp_S3_eu-west-2_linux",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B00000000000X"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
