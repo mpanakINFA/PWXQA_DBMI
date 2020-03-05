@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1tA1eI32SDajCgIyC7CHQ5",
+    "name" : "mp_M_A_ALL_MYSQL_TYPES",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5699"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}
