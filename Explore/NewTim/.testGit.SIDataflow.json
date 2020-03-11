@@ -16,10 +16,10 @@
         "value" : "4EhaH6yTM4Qbk762NAjaMR"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "2"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Updated description.",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
