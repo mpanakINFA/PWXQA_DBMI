@@ -197,7 +197,7 @@
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Reassigned SA to allow delete of SA USW1PF18WPQG for to test DBMI-1261",
+        "description" : "Reassigned SA to allow delete of SA USW1PF18WPQG to test DBMI-1261",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

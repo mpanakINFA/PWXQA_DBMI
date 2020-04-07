@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aWvm62KXUmDbPQ6czGbfKI",
+    "name" : "mp_O_AS_ALL_ORACLE_TYPES_RestartDefault_A1AB",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8975"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Start AFTER tables are truncated, rows inserted.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

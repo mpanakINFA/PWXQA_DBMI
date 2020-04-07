@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9ch6VOTH1UscJQHgCndue7",
+    "name" : "mp_OCDC_AS_ALL_ORACLE_TYPES_NoSL_B",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8983"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3FcxTmCCrszkP2wXL4Ab6Z",
+    "name" : "mp_O_AS_BIG_TABLE_90_99_CDCCombined_RestartDefault",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8953"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

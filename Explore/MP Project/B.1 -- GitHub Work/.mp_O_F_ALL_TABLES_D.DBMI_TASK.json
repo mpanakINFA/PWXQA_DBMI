@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6Dqs6OhCpsNiZ4PDTrmmGq",
+    "name" : "mp_O_F_ALL_TABLES_D",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8951"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

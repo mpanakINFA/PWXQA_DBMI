@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "i6nYPsWxqMtl1viIs9Jbgq",
+    "name" : "mp_TestPermissions_CDCCombined_2 - Copy 1",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "16431"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}

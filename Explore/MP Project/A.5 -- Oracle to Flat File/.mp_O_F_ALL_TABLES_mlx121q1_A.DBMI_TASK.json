@@ -41,26 +41,6 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "dmHvsF3HGAUjTDPXRARaOb",
-    "name" : "mp_FF_mhredhat5",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100J20B00000000002X"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "2uchiDXEKBgerAbqpuuLEY",
     "name" : "mp_Oracle121c_DBMI_mlx121q1",
     "type" : "Connection",
@@ -71,6 +51,26 @@
       },
       "repoInfo" : {
         "repoHandle" : "0100J20B00000000000O"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "3z0ZjCnfFrmjnpF3KOMkmb",
+    "name" : "GBW1PF0UEGRH-flatfile",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J20B000000000008"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

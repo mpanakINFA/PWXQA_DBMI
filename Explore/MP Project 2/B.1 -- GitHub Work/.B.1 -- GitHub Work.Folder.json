@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4Wl9hAYL7RflEmQgZW9E0z",
+    "name" : "B.1 -- GitHub Work",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

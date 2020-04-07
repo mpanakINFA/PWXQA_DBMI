@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "11mOvBzNX9pdmVoOIMqYe5",
+    "name" : "mp_M_F_SRC_ALLCHAR",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8829"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Imported task 1.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "8mGSa2rWTCdjOO7AXzMJyk",
+    "name" : "MHV19PWXQA01",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100J225000000000008"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

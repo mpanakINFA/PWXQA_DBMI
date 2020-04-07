@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0wU1IeeCCa3iF4SifwyTYG",
+    "name" : "mp_O_F_ALL_TABLES_mlx121q1_A - Copy 2",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9305"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}
