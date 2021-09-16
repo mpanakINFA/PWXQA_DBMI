@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8t4FDUnEj04bPEwZMrgg6q",
+    "name" : "mp_O_AS_ALL_ORACLE_TYPES_CDCCombined - Copy 1",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "51797"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}
